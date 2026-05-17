@@ -12,8 +12,6 @@ Soy un desarrollador de software enfocado en el diseño y construcción de soluc
 
 ---
 
-## 🛠️ Stack Tecnológico y Herramientas
-
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
