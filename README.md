@@ -44,28 +44,20 @@ Soy un desarrollador de software enfocado en el diseño y construcción de soluc
 
 ## 📊 Métricas de Desarrollo en GitHub
 
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=juanito433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de juanito433" />
-      </a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/durgeshsamariya/github-readme-streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=juanito433&theme=tokyonight" alt="Racha de contribuciones de juanito433" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <br />
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanito433&layout=compact&theme=tokyonight&hide=html,css&langs_count=7" alt="Lenguajes de programación más utilizados por juanito433" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanito433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="195" />
+  </a>
+  <a href="https://github.com/durgeshsamariya/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=juanito433&theme=tokyonight" alt="Racha de contribuciones" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanito433&layout=compact&theme=tokyonight&hide=html,css&langs_count=7" alt="Lenguajes más utilizados" height="195" />
+  </a>
+</p>
 
 ---
 
