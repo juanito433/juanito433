@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=650&height=70&lines=%F0%9F%91%8B+Hola%2C+soy+juanito433;%F0%9F%92%BB+Ingeniero+Inform%C3%A1tico;%F0%9F%9A%80+Apasionado+por+las+arquitecturas+limpias;%E2%9A%A1+Escribiendo+c%C3%B3digo+eficiente+y+escalable" alt="Typing SVG" />
 </p>
+
 ## 🚀 Sobre Mí
 
 Soy un desarrollador de software enfocado en el diseño y construcción de soluciones web robustas, eficientes y altamente escalables. Mi enfoque técnico se centra en el desarrollo de arquitecturas limpias, la optimización de bases de datos y la automatización de procesos para ofrecer la mejor experiencia de usuario y un excelente rendimiento en el lado del servidor.
