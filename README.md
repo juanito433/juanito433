@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Hola%2C+soy+juanito433;Desarrollador+Software+Full+Stack;Apasionado+por+arquitecturas+limpias;Escribiendo+c%C3%B3digo+eficiente+y+escalable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&lines=Hola%2C+soy+juanito433;Ingeníero+Informático;Apasionado+por+arquitecturas+limpias;Escribiendo+c%C3%B3digo+eficiente+y+escalable" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre Mí
@@ -74,10 +74,13 @@ Soy un desarrollador de software enfocado en el diseño y construcción de soluc
 Si te interesa colaborar en algún proyecto, discutir soluciones técnicas o simplemente intercambiar puntos de vista sobre desarrollo de software, puedes contactarme a través de:
 
 <p align="left">
-  <a href="mailto:tu-correo@dominio.com">
+  <a href="mailto:lopezsurianjuancarlos5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Correo" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/juancarloslopezsurian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" />
+  </a>
+  <a href="https://juanito433-portafolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portafolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=70a5fd" alt="Portafolio" />
   </a>
 </p>
