@@ -47,19 +47,12 @@ Soy un desarrollador de software enfocado en el diseño y construcción de soluc
 ## 📊 Métricas de Desarrollo en GitHub
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanito433&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="195" />
-  </a>
+ 
   <a href="https://github.com/durgeshsamariya/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=juanito433&theme=tokyonight" alt="Racha de contribuciones" height="195" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanito433&layout=compact&theme=tokyonight&hide=html,css&langs_count=7" alt="Lenguajes más utilizados" height="195" />
-  </a>
-</p>
 
 ---
 
